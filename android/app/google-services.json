@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023624968838",
+    "project_id": "electric-ecommerce",
+    "storage_bucket": "electric-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023624968838:android:773bf34ed3aa7972e4af07",
+        "android_client_info": {
+          "package_name": "com.example.elctric_ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzLZ9YgjIapQ004obve8VWHXVlrQhNEMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
